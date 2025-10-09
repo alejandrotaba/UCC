@@ -1,0 +1,4 @@
+[18-Sep-2025 16:33:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "ControllerTemplate" not found in C:\xampp\htdocs\inventario1\index.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\inventario1\index.php on line 23
