@@ -62,3 +62,120 @@
 [16-Oct-2025 09:14:44 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
 [16-Oct-2025 09:15:27 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
 [16-Oct-2025 09:15:27 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 10:57:42 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:47 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:48 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:49 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:49 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:50 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:50 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:50 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:51 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:51 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 10:57:51 America/Bogota] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 64
+[16-Oct-2025 11:00:27 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:27 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:28 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:28 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:28 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:30 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:30 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:30 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:30 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:31 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:31 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:00:59 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:01:02 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:01:59 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:01:59 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Controllers\ControllerCategory.php on line 67
+[16-Oct-2025 11:02:48 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Models\ModelCategory.php on line 34
+[16-Oct-2025 11:02:49 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Models\ModelCategory.php on line 34
+[16-Oct-2025 11:02:49 America/Bogota] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\inventario1\Models\ModelCategory.php on line 34
+[16-Oct-2025 11:24:40 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42
+[16-Oct-2025 11:24:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method ControllerCategory::mostrarCategorias() in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php:42
+Stack trace:
+#0 C:\xampp\htdocs\inventario1\views\private\backoffice.php(32): include_once()
+#1 C:\xampp\htdocs\inventario1\views\template.php(51): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\inventario1\Controllers\ControllerTemplate.php(6): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\inventario1\index.php(30): ControllerTemplate->showTemplate()
+#4 {main}
+  thrown in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 42

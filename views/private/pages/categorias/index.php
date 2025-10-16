@@ -1,173 +1,148 @@
+<!-- Begin Page Content -->
 <div class="container-fluid">
 
-                    <div class="d-flex align-items-center justify-content-between mb-3">
-                        <h1 class="h3 mb-0 text-gray-800">
-                            <i class="fas fa-tags me-2 text-primary"></i>Categorias
-                        </h1>
+  <!-- Encabezado de página -->
+  <div class="d-flex align-items-center justify-content-between mb-3">
+    <h1 class="h3 mb-0 text-gray-800">
+      <i class="fas fa-tags me-2 text-primary"></i> Categorías
+    </h1>
 
-                        <!--boton agregar-->
-                         <button class="btn btn-primary btn-sm" data-bs-toggle="modal" 
-                         data-bs-target="#modalCategoria">
-                        <i class="fas fa-plus me-1"></i>Agregar Categoria
-                        </button>
-                    </div>
+    <!-- Botón: Agregar categoría (abre modal) -->
+    <button class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#modalCategoria">
+      <i class="fas fa-plus me-1"></i> Nueva categoría
+    </button>
+  </div>
 
-                    <p class="mb-4">
-                        Gestiona las categorias de productos desde esta seccion. utiliza el boton
-                        <strong>"Agregar Categoria"</strong> para añadir una nueva
-                    </p>
+  <!-- Descripción -->
+  <p class="mb-4">
+    Gestiona las categorías de productos desde esta sección. Utiliza el botón <strong>“Nueva categoría”</strong> para añadir una nueva.
+  </p>
 
+  <!-- Tabla -->
+  <div class="card shadow mb-4">
+    <div class="card-header py-3 d-flex align-items-center">
+      <h6 class="m-0 font-weight-bold text-primary">
+        <i class="fas fa-list me-2"></i> Listado de categorías
+      </h6>
+    </div>
 
-                    <!-- DataTales Example -->
-                    <div class="card shadow mb-4">
-                        <div class="card-header py-3">
-                            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
-                        </div>
-                        <div class="card-body">
-                            <div class="table-responsive">
-                                <div id="dataTable_wrapper" class="dataTables_wrapper dt-bootstrap4"><div class="row"><div class="col-sm-12 col-md-6"><div class="dataTables_length" id="dataTable_length"><label>Show <select name="dataTable_length" aria-controls="dataTable" class="custom-select custom-select-sm form-control form-control-sm"><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select> entries</label></div></div><div class="col-sm-12 col-md-6"><div id="dataTable_filter" class="dataTables_filter"><label>Search:<input type="search" class="form-control form-control-sm" placeholder="" aria-controls="dataTable"></label></div></div></div><div class="row"><div class="col-sm-12"><table class="table table-bordered dataTable" id="dataTable" width="100%" cellspacing="0" role="grid" aria-describedby="dataTable_info" style="width: 100%;">
-                                    <thead>
-                                        <tr role="row"><th class="sorting sorting_asc" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Name: activate to sort column descending" style="width: 75.2px;">Name</th><th class="sorting" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 98.2px;">Position</th><th class="sorting" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-label="Office: activate to sort column ascending" style="width: 59.2px;">Office</th><th class="sorting" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-label="Age: activate to sort column ascending" style="width: 30.2px;">Age</th><th class="sorting" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-label="Start date: activate to sort column ascending" style="width: 70.2px;">Start date</th><th class="sorting" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-label="Salary: activate to sort column ascending" style="width: 66.2px;">Salary</th></tr>
-                                    </thead>
-                                    <tfoot>
-                                        <tr><th rowspan="1" colspan="1">Name</th><th rowspan="1" colspan="1">Position</th><th rowspan="1" colspan="1">Office</th><th rowspan="1" colspan="1">Age</th><th rowspan="1" colspan="1">Start date</th><th rowspan="1" colspan="1">Salary</th></tr>
-                                    </tfoot>
-                                    <tbody>
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    <tr class="odd">
-                                            <td class="sorting_1">Airi Satou</td>
-                                            <td>Accountant</td>
-                                            <td>Tokyo</td>
-                                            <td>33</td>
-                                            <td>2008/11/28</td>
-                                            <td>$162,700</td>
-                                        </tr><tr class="even">
-                                            <td class="sorting_1">Angelica Ramos</td>
-                                            <td>Chief Executive Officer (CEO)</td>
-                                            <td>London</td>
-                                            <td>47</td>
-                                            <td>2009/10/09</td>
-                                            <td>$1,200,000</td>
-                                        </tr><tr class="odd">
-                                            <td class="sorting_1">Ashton Cox</td>
-                                            <td>Junior Technical Author</td>
-                                            <td>San Francisco</td>
-                                            <td>66</td>
-                                            <td>2009/01/12</td>
-                                            <td>$86,000</td>
-                                        </tr><tr class="even">
-                                            <td class="sorting_1">Bradley Greer</td>
-                                            <td>Software Engineer</td>
-                                            <td>London</td>
-                                            <td>41</td>
-                                            <td>2012/10/13</td>
-                                            <td>$132,000</td>
-                                        </tr><tr class="odd">
-                                            <td class="sorting_1">Brenden Wagner</td>
-                                            <td>Software Engineer</td>
-                                            <td>San Francisco</td>
-                                            <td>28</td>
-                                            <td>2011/06/07</td>
-                                            <td>$206,850</td>
-                                        </tr><tr class="even">
-                                            <td class="sorting_1">Brielle Williamson</td>
-                                            <td>Integration Specialist</td>
-                                            <td>New York</td>
-                                            <td>61</td>
-                                            <td>2012/12/02</td>
-                                            <td>$372,000</td>
-                                        </tr><tr class="odd">
-                                            <td class="sorting_1">Bruno Nash</td>
-                                            <td>Software Engineer</td>
-                                            <td>London</td>
-                                            <td>38</td>
-                                            <td>2011/05/03</td>
-                                            <td>$163,500</td>
-                                        </tr><tr class="even">
-                                            <td class="sorting_1">Caesar Vance</td>
-                                            <td>Pre-Sales Support</td>
-                                            <td>New York</td>
-                                            <td>21</td>
-                                            <td>2011/12/12</td>
-                                            <td>$106,450</td>
-                                        </tr><tr class="odd">
-                                            <td class="sorting_1">Cara Stevens</td>
-                                            <td>Sales Assistant</td>
-                                            <td>New York</td>
-                                            <td>46</td>
-                                            <td>2011/12/06</td>
-                                            <td>$145,600</td>
-                                        </tr><tr class="even">
-                                            <td class="sorting_1">Cedric Kelly</td>
-                                            <td>Senior Javascript Developer</td>
-                                            <td>Edinburgh</td>
-                                            <td>22</td>
-                                            <td>2012/03/29</td>
-                                            <td>$433,060</td>
-                                        </tr></tbody>
-                                </table></div></div><div class="row"><div class="col-sm-12 col-md-5"><div class="dataTables_info" id="dataTable_info" role="status" aria-live="polite">Showing 1 to 10 of 57 entries</div></div><div class="col-sm-12 col-md-7"><div class="dataTables_paginate paging_simple_numbers" id="dataTable_paginate"><ul class="pagination"><li class="paginate_button page-item previous disabled" id="dataTable_previous"><a href="#" aria-controls="dataTable" data-dt-idx="0" tabindex="0" class="page-link">Previous</a></li><li class="paginate_button page-item active"><a href="#" aria-controls="dataTable" data-dt-idx="1" tabindex="0" class="page-link">1</a></li><li class="paginate_button page-item "><a href="#" aria-controls="dataTable" data-dt-idx="2" tabindex="0" class="page-link">2</a></li><li class="paginate_button page-item "><a href="#" aria-controls="dataTable" data-dt-idx="3" tabindex="0" class="page-link">3</a></li><li class="paginate_button page-item "><a href="#" aria-controls="dataTable" data-dt-idx="4" tabindex="0" class="page-link">4</a></li><li class="paginate_button page-item "><a href="#" aria-controls="dataTable" data-dt-idx="5" tabindex="0" class="page-link">5</a></li><li class="paginate_button page-item "><a href="#" aria-controls="dataTable" data-dt-idx="6" tabindex="0" class="page-link">6</a></li><li class="paginate_button page-item next" id="dataTable_next"><a href="#" aria-controls="dataTable" data-dt-idx="7" tabindex="0" class="page-link">Next</a></li></ul></div></div></div></div>
-                            </div>
-                        </div>
-                    </div>
+    <div class="card-body">
+      <div class="table-responsive">
+        <table class="table table-bordered align-middle tablas" id="tablaCategorias" width="100%" cellspacing="0">
+          <thead class="thead-light">
+            <tr>
+              <th style="width: 60px;">#</th>
+              <th><i class="fas fa-tag me-1 text-secondary"></i> Nombre de la categoría</th>
+              <th style="width: 140px;"><i class="fas fa-cogs me-1 text-secondary"></i> Acciones</th>
+            </tr>
+          </thead>
+          <tbody>
+            <?php
+              // Obtener categorías desde el controlador
+              $categorias = ControllerCategory::mostrarCategorias();
 
-                </div>
+              if (!empty($categorias)) {
+                $i = 1;
+                foreach ($categorias as $cat) {
+                  // Saneo básico
+                  $id   = isset($cat['id_categoria']) ? (int)$cat['id_categoria'] : 0;
+                  $name = htmlspecialchars($cat['nombre_categoria'] ?? '', ENT_QUOTES, 'UTF-8');
 
-                <?php
-                include_once "partials/modals.php"
-                ?>
+                  echo '<tr data-id="'.$id.'">
+                          <td class="text-center">'.$i.'</td>
+                          <td>'.$name.'</td>
+                          <td class="text-nowrap text-center">
+                            <button class="btn btn-outline-primary btn-sm me-1" data-bs-toggle="tooltip" title="Editar categoría" data-action="edit" data-id="'.$id.'">
+                              <i class="fas fa-edit"></i>
+                            </button>
+                            <button class="btn btn-outline-danger btn-sm" data-bs-toggle="tooltip" title="Eliminar categoría" data-action="delete" data-id="'.$id.'">
+                              <i class="fas fa-trash"></i>
+                            </button>
+                          </td>
+                        </tr>';
+                  $i++;
+                }
+              } else {
+                echo '<tr>
+                        <td colspan="3" class="text-center text-muted">
+                          No hay categorías registradas.
+                        </td>
+                      </tr>';
+              }
+            ?>
+          </tbody>
+          <tfoot class="thead-light">
+            <tr>
+              <th>#</th>
+              <th>Nombre de la categoría</th>
+              <th>Acciones</th>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+    </div>
+  </div>
+
+</div>
+<!-- /.container-fluid -->
+
+<!-- Modal: Agregar/Editar categoría -->
+<div class="modal fade" id="modalCategoria" tabindex="-1" aria-labelledby="modalCategoriaLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <form id="formCategoria" class="modal-content" method="post" autocomplete="off">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modalCategoriaLabel">
+          <i class="fas fa-plus me-1 text-primary"></i> Nueva categoría
+        </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+      </div>
+
+      <div class="modal-body">
+        <div class="mb-3">
+          <label for="inputCategoria" class="form-label">
+            <i class="fas fa-tag me-1 text-secondary"></i> Nombre de la categoría
+          </label>
+          <input type="text" class="form-control" id="inputCategoria" name="categoria" placeholder="Ejemplo: Selladores" required>
+          <div class="invalid-feedback">Por favor, escribe un nombre válido.</div>
+        </div>
+
+        <?php
+          // Procesa POST (crear)
+          $crearCategoria = new ControladorCategorias();
+          $crearCategoria->crearCategoria();
+        ?>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-light" data-bs-dismiss="modal">
+          <i class="fas fa-times me-1"></i> Cancelar
+        </button>
+        <button type="submit" class="btn btn-primary">
+          <i class="fas fa-save me-1"></i> Guardar
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Opcional: inicializar tooltips (y DataTable si no lo haces globalmente) -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Tooltips
+    const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+    tooltipTriggerList.forEach(function (tooltipTriggerEl) {
+      new bootstrap.Tooltip(tooltipTriggerEl);
+    });
+
+    // Si inicializas DataTables globalmente con $('.tablas').DataTable(...), puedes omitir esto.
+    // Si prefieres local:
+    // if (!$.fn.DataTable.isDataTable('#tablaCategorias')) {
+    //   $('#tablaCategorias').DataTable({
+    //     responsive: true,
+    //     pageLength: 10,
+    //     lengthMenu: [10, 25, 50, 100],
+    //     language: { url: "//cdn.datatables.net/plug-ins/1.13.1/i18n/es-ES.json" }
+    //   });
+    // }
+});
+</script>

@@ -20,6 +20,7 @@ date_default_timezone_set('America/Bogota');
 //controladores requeridos
 require_once "Controllers/ControllerTemplate.php";
 require_once "Controllers/UserController.php";
+require_once "Controllers/ControllerCategory.php";
 
 //Nos permite crear variables de sesión
 if (session_status() !== PHP_SESSION_ACTIVE) session_start();
