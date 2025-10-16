@@ -17,6 +17,9 @@ class UserController
             ){
                 //Consulta base de Datos
                 $usuario = UserModel::findByEmail($email);
+
+                // var_dump($usuario);
+                // return;
                 //la password que viene de base de datos    
                 $passBD = $usuario["password_usuario"];
 

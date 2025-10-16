@@ -9,7 +9,7 @@ class Conexion {
         if (self::$instancia === null) {
 
             $host = '127.0.0.1';
-            $db   = 'proyectog4';
+            $db   = 'inventarioucc';
             $user = 'root';
             $pass = '';
             $dsn  = "mysql:host=$host;dbname=$db;charset=utf8mb4";

@@ -38,3 +38,27 @@
 [11-Oct-2025 10:28:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\inventarioG4sabado\views\public\modules\services.php:1) in C:\xampp\htdocs\inventarioG4sabado\Controllers\UserController.php on line 33
 [11-Oct-2025 10:29:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\inventarioG4sabado\views\public\modules\services.php:1) in C:\xampp\htdocs\inventarioG4sabado\Controllers\UserController.php on line 33
 [11-Oct-2025 10:30:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\inventarioG4sabado\views\public\modules\services.php:1) in C:\xampp\htdocs\inventarioG4sabado\Controllers\UserController.php on line 33
+[16-Oct-2025 07:33:44 America/Bogota] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'proyectog4'
+[16-Oct-2025 07:33:44 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\inventario1\Controllers\UserController.php on line 21
+[16-Oct-2025 07:33:59 America/Bogota] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'proyectog4'
+[16-Oct-2025 07:33:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\inventario1\Controllers\UserController.php on line 21
+[16-Oct-2025 07:35:49 America/Bogota] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'proyectog4'
+[16-Oct-2025 07:35:49 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\inventario1\Controllers\UserController.php on line 21
+[16-Oct-2025 07:36:10 America/Bogota] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'proyectog4'
+[16-Oct-2025 07:36:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\inventario1\Controllers\UserController.php on line 21
+[16-Oct-2025 07:37:10 America/Bogota] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'proyectog4'
+[16-Oct-2025 07:37:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\inventario1\Controllers\UserController.php on line 21
+[16-Oct-2025 09:14:22 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:22 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:41 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:41 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:43 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:43 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:43 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:43 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:44 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:44 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:44 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:14:44 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:15:27 America/Bogota] PHP Warning:  include_once(partials/modals,php): Failed to open stream: No such file or directory in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
+[16-Oct-2025 09:15:27 America/Bogota] PHP Warning:  include_once(): Failed opening 'partials/modals,php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\inventario1\views\private\pages\categorias\index.php on line 172
