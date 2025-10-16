@@ -20,24 +20,39 @@
     <!-- Custom styles for this template-->
     <link href="views/sources/css/sb-admin-2.min.css" rel="stylesheet">
 
+
+    <!-- estilos propios -->
+     <link rel="stylesheet" href="views/sources/css/backoffice.css">
+
+
 </head>
 
 <body id="page-top">
 
     <?php
-        include_once "views/private/backoffice.php";
+        if(isset($_SESSION['admin']) && $_SESSION['admin'] == "ok"){
+            include_once "views/private/backoffice.php";
+        }else{
+            include_once "views/public/landingpage.php";
+        }
+        
     ?>
 
     <!-- Bootstrap core JavaScript-->
     <script src="views/sources/libs/jquery/jquery.min.js"></script>
-    <script src="views/sources/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="views/sources/libs/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+
 
     <!-- Core plugin JavaScript-->
     <script src="views/sources/libs/jquery-easing/jquery.easing.min.js"></script>
 
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
     <!-- Custom scripts for all pages-->
     <script src="views/sources/js/sb-admin-2.min.js"></script>
-
+    <!-- <script src="views/sources/js/scripts.js"></script> -->
 </body>
 
 </html>

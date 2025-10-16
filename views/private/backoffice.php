@@ -20,15 +20,18 @@
                 if(isset($_GET["route"])){
 
                     if(
+                        $_GET["route"] == "cerrar-sesion" ||
                         $_GET["route"] == "dashboard" ||
                         $_GET["route"] == "usuarios" ||
                         $_GET["route"] == "categorias" ||
-                        $_GET["route"] == "productos"
-
+                        $_GET["route"] == "productos"  ||
+                        $_GET["route"] == "administrar-ventas" ||
+                        $_GET["route"] == "crear-venta" ||
+                        $_GET["route"] == "reportes"  
                     ){
                         include_once "views/private/pages/".$_GET["route"]."/index.php";
                     }else{
-                        include_once "views/private/pages/404/index.php";
+                         include_once "views/private/pages/404/index.php";
                     }
 
                 }else{
@@ -61,3 +64,5 @@
     include "views/private/modules/botonesFlotantes.php";
     include "views/private/modules/modals.php";
     ?>
+
+
